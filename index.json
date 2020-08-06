@@ -1,0 +1,57 @@
+[
+{
+	"uri": "/tutorials/devopstools/",
+	"title": "DevOps Tools",
+	"tags": ["azure"],
+	"description": "Conteudo relacionado a ferramenta Azure Devops",
+	"content": " "
+},
+{
+	"uri": "/tutorials/",
+	"title": "Tutoriais ✍",
+	"tags": ["Tutoriais"],
+	"description": "Tutoriais diversos",
+	"content": " DevOps Tools  Conteudo relacionado a ferramenta Azure Devops\n "
+},
+{
+	"uri": "/tags/azure/",
+	"title": "azure",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "Contribuidores do Developer Portal",
+	"content": "Contribuidores Juan Enciso @jenciso\nMateus Abdala @MateusAbdala\n "
+},
+{
+	"uri": "/",
+	"title": "Docs Planet",
+	"tags": [],
+	"description": "",
+	"content": "Docs Planet O Docs Planet é um repostitorio de conteúdo de tutoriais sobre tecnologias usadas no mundo DevOps\n"
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/tutoriais/",
+	"title": "Tutoriais",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

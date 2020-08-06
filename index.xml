@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs Planet</title>
+    <link>/</link>
+    <description>Recent content on Docs Planet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Credits</title>
+      <link>/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/credits/</guid>
+      <description>Contribuidores Juan Enciso @jenciso
+Mateus Abdala @MateusAbdala
+ </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutoriais on Docs Planet</title>
+    <link>/tags/tutoriais/</link>
+    <description>Recent content in Tutoriais on Docs Planet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/tutoriais/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutoriais ✍</title>
+      <link>/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tutorials/</guid>
+      <description> DevOps Tools  Conteudo relacionado a ferramenta Azure Devops
+ </description>
+    </item>
+    
+  </channel>
+</rss>
